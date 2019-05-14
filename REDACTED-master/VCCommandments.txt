@@ -1,0 +1,21 @@
+<<<<<<< HEAD
+This file contains the rules and protocols for use 
+=======
+This file contains the rules and protocols for use of the GBS Version Control Software.
+Please read through the entire list before using Source Tree and pushing to the team's GitHub.
+
+#There is never a commit too small#
+For the sake of not wasting any time of GBS employees, it is better to be overly particular in regards to the size of your committs. 
+Therefore, break up your stagings into small units of work. 10 small committs are better than 1 overall commit.
+
+#Committs must be detailed#
+Anytime you create a commit, you must write in a detailed description of what actions were taken and goals achieved during this commit.
+This description should be understandable by any observer so as to avoid any unnecessary conflicts.
+
+#Never be afraid to ask#
+If, at any point, you are unsure of yourself with version control, please reach out to Brett or CJ for guidance on usage.
+
+#Make sure to use updated copies#
+Be sure to always pull from the repo when you begin working on a project.
+This way, you are always working from the most recent state and are avoiding any unnecessary conflicts in the software.
+>>>>>>> 3fdaf56a761430c385a0cd85c260078ba3175f29

@@ -1,0 +1,7 @@
+In terms of reading from database:
+functions will be stored in scripts
+parameters will be fields in DB
+Read all cards for game at runtime to cut down on resource allocation
+Cards stored as objects in memory
+Optimal way to do this?
+First step OrderedDictionary
